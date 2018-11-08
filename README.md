@@ -24,7 +24,7 @@ All of the code in this repository is licensed under the
 [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/). A copy of this license
 is included in the root of this repository.
 
-At times, there might be other source code incorporated into Aperte which carry
+At times, there might be other source code incorporated into Mix which carry
 different open-source licenses, where those instances occur, notations will be
 made in the headers of effected source files and/or the original source code
 licenses will be included in close proximity to these files.
