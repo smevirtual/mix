@@ -1,5 +1,7 @@
 ## Mix
 
+![Mix Logo](docs/img/mix_logo_small.png)
+
 **Mix** is a minimalistic inventory and picking web application for small teams.
 
 Mix was originally designed to help [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
