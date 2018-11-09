@@ -11,8 +11,8 @@ could possibly be used for similar scenarios and projects.
 Mix is not intended to be a feature-complete [MRP](https://en.wikipedia.org/wiki/Material_requirements_planning)
 or [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning) platform.
 
-Mix supports first-class [Discord](https://discordapp.com/) integration to keep
-everyone in the loop.
+Mix supports first-class [Discord](https://discordapp.com/) and [Slack](https://slack.com/)
+integrations to keep everyone in the loop.
 
 ### Community Participation Guidelines
 
