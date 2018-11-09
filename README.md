@@ -4,9 +4,12 @@
 
 **Mix** is a minimalistic inventory and picking web application for small teams.
 
-Mix was originally designed to help [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
-teams manage parts for their build. However, it is generally not opinionated and
-could possibly be used for similar scenarios and projects.
+Mix was originally designed to help the [Robo Vikes Team 4206 FIRST Robotics Team](http://www.team4206.com/)
+manage parts for their build. However, it is generally not opinionated and
+could possibly be used by other [FIRST Robotics](https://www.firstinspires.org/robotics/frc)
+teams and for other similar scenarios.
+
+<img src="docs/img/team_4206.jpg" alt="Robo Vikes Team 4206 Logo" width="200" height="200" />
 
 Mix is not intended to be a feature-complete [MRP](https://en.wikipedia.org/wiki/Material_requirements_planning)
 or [ERP](https://en.wikipedia.org/wiki/Enterprise_resource_planning) platform.
