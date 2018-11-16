@@ -23,6 +23,10 @@ The SME Virtual Network is committed to providing a friendly, safe and welcoming
 environment for all. Please take a moment to read our
 [Community Participation Guidelines](https://github.com/smevirtual/community-guidelines/blob/master/README.md).
 
+### Project Sponsors
+
+<a href="https://smedfw.com/"><img src="docs/img/smedfw_logo.png" alt="SME DFW Chapter Logo" width="400" height="210" /></a>
+
 ### License
 
 All of the code in this repository is licensed under the
